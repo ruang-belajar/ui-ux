@@ -9,5 +9,5 @@
 * [Panzarella L. - UI + UX Design. Web design simply explained 2023](ebook/Panzarella%20L.%20%20UI%20%2B%20UX%20Design.%20Web%20design%20simply%20explained%202023.pdf)
 * [Adham Dannaway - Practical UI 🔗](https://drive.google.com/file/d/1o00USv3PqkAJZ-Kfnwt9K9XCNB2gSold/view?usp=sharing)
 * [The UI-UX Playbook. Learn How To Design Beautiful UI Designs 2024](ebook/UXPeak.%20The%20UI-UX%20Playbook.%20Learn%20How%20To%20Design%20Beautiful%20UI%20Designs%202024.pdf)
-* [Design Patterns_ Elements of Reusable Object-Oriented Software - Gamma, Erich (epub)](ebook%2FDesign+Patterns_+Elements+of+Reusable+Object-Oriented+Software+-+Gamma%2C+Erich.epub)
-* [The Design of Everyday Things by Donald A. Norman (epub)](ebook%2FThe+Design+of+Everyday+Things+by+Donald+A.+Norman.epub)
+* [Design Patterns_ Elements of Reusable Object-Oriented Software - Gamma, Erich (epub)](ebook/Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20-%20Gamma%2C%20Erich.epub)
+* [The Design of Everyday Things by Donald A. Norman (epub)](ebook/The%20Design%20of%20Everyday%20Things%20by%20Donald%20A.%20Norman.epub)

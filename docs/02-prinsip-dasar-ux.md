@@ -98,7 +98,7 @@ Hindari istilah teknis atau kalimat ambigu.
 
 Desain visual harus membantu, bukan mengacaukan.
 
-1. **Hierarki visual** jelas: elemen penting lebih menonjol.
+1. **Hierarki visual jelas**: elemen penting lebih menonjol.
     
 2. **Kontras warna** cukup antara teks dan latar.
     
@@ -486,7 +486,7 @@ Bayangkan setiap mobil punya posisi pedal gas berbeda — betapa berbahayanya it
 
 ---
 
-### **2.3 Efficiency (Efisiensi)**
+### 2.3 Efficiency (Efisiensi)
 
 > "Less effort, more value."
 
@@ -650,7 +650,7 @@ Desain efisien menyediakan **jalan pintas (shortcuts)** bagi pengguna berpengala
 
 ### 2.3.5. Contoh Nyata Desain UX yang Efisien
 
-### ✅ **a. Google Search**
+#### a. Google Search
 
 - Satu kolom input.
     
@@ -658,7 +658,7 @@ Desain efisien menyediakan **jalan pintas (shortcuts)** bagi pengguna berpengala
     ➡️ Hanya butuh satu langkah untuk mendapatkan informasi.
     
 
-### ✅ **b. Grab / Gojek**
+#### b. Grab / Gojek
 
 - Menyimpan alamat favorit (“Rumah”, “Kantor”).
     
@@ -668,7 +668,7 @@ Desain efisien menyediakan **jalan pintas (shortcuts)** bagi pengguna berpengala
     ➡️ Proses pemesanan dari 7 langkah → hanya 2-3 klik.
     
 
-### ✅ **c. Amazon One-Click Purchase**
+#### c. Amazon One-Click Purchase
 
 - Setelah alamat & kartu tersimpan → cukup 1 klik untuk beli.  
     ➡️ Efisiensi ekstrem meningkatkan konversi dan kepuasan pengguna.
@@ -721,33 +721,17 @@ Desain efisien menyediakan **jalan pintas (shortcuts)** bagi pengguna berpengala
 
 ### 2.3.9. Indikator Efisiensi dalam UX (UX Metrics)
 
-|Metrik|Deskripsi|
-|:--|:--|
-|**Task Completion Time**|Waktu yang dibutuhkan pengguna untuk menyelesaikan tugas.|
-|**Number of Steps / Clicks**|Semakin sedikit langkah, semakin efisien.|
-|**Error Rate**|Semakin sedikit kesalahan, semakin tinggi efisiensi.|
-|**User Satisfaction Score (SUS)**|Apakah pengguna merasa prosesnya cepat dan mudah.|
-
----
-
-## ✅ **10. Kesimpulan**
-
-> “Efisiensi adalah tentang membantu pengguna mencapai tujuan mereka dengan cara tercepat, termudah, dan paling alami.”
-
-- Desain efisien = cepat, ringan, dan mudah digunakan.
-    
-- Kurangi langkah, hindari duplikasi, dan berikan umpan balik cepat.
-    
-- Efisiensi bukan hanya soal kecepatan, tapi juga **kenyamanan dan kejelasan**.
-    
-
-🧭 **Prinsip kuncinya:**
-
+| Metrik                            | Deskripsi                                                 |
+| :-------------------------------- | :-------------------------------------------------------- |
+| **Task Completion Time**          | Waktu yang dibutuhkan pengguna untuk menyelesaikan tugas. |
+| **Number of Steps / Clicks**      | Semakin sedikit langkah, semakin efisien.                 |
+| **Error Rate**                    | Semakin sedikit kesalahan, semakin tinggi efisiensi.      |
+| **User Satisfaction Score (SUS)** | Apakah pengguna merasa prosesnya cepat dan mudah.         |
 
 
 ---
 
-## 💬 **11. Diskusi / Latihan Kelas**
+### 2.3.10. Diskusi Kelas
 
 1. Pilih aplikasi yang menurut Anda **efisien** dan satu yang **tidak efisien**.  
     → Jelaskan perbedaannya dalam hal langkah, navigasi, dan waktu.
@@ -811,37 +795,6 @@ Desain efisien menyediakan **jalan pintas (shortcuts)** bagi pengguna berpengala
 
 ---
 
-## **4. Ringkasan**
-
-Prinsip UX Design:
-
-1. **Clarity** – jelas
-    
-2. **Consistency** – seragam
-    
-3. **Efficiency** – hemat langkah
-    
-4. **Feedback** – ada respon sistem
-    
-5. **Accessibility** – inklusif
-    
-6. **Hierarchy** – fokus informasi
-    
-7. **Flexibility** – adaptif
-    
-
----
-
-## **5. Diskusi / Latihan**
-
-1. Pilih aplikasi yang sering Anda gunakan, lalu analisis apakah sudah menerapkan prinsip UX.
-    
-2. Berikan contoh fitur aplikasi yang menurut Anda **efisien**, dan fitur yang justru **membingungkan**.
-    
-3. Jika Anda merancang aplikasi e-learning, bagaimana cara menerapkan prinsip _feedback_ dan _accessibility_?
-    
-
----
 
 📖 **Referensi**
 
