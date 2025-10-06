@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01-pengantar.md",
+                "file": "docs/02-prinsip-dasar-ux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-pengantar"
+              "title": "02-prinsip-dasar-ux"
             }
           },
           {
@@ -214,8 +214,10 @@
   },
   "active": "ed3738b1c51ea11e",
   "lastOpenFiles": [
-    "docs/02-prinsip-dasar.md",
+    "docs/03-dasar-ui.md",
+    "docs/04-persona.md",
     "docs/01-pengantar.md",
+    "docs/02-prinsip-dasar-ux.md",
     "README.md",
     "ebook/Design Patterns_ Elements of Reusable Object-Oriented Software - Gamma, Erich.epub",
     "ebook/The Design of Everyday Things by Donald A. Norman.epub",
@@ -230,8 +232,6 @@
     "ebook/Dannaway A. Practical UI. UI design book and bonus Figma design system..2ed 2024.pdf",
     "ebook",
     "New folder",
-    "docs/05-architecture.md",
-    "docs/04-persona.md",
-    "docs/03-dasar-ui.md"
+    "docs/05-architecture.md"
   ]
 }

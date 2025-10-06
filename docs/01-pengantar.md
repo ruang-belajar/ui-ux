@@ -1,6 +1,6 @@
-# **Pengantar UI/UX**
+# Pengantar UI/UX
 
-## **1.1 Apa itu UI dan UX?**
+## 1.1 Apa itu UI dan UX?
 
 **UI (User Interface):** Segala aspek visual yang berinteraksi langsung dengan pengguna, seperti tombol, ikon, tipografi, warna, layout, dan elemen grafis. UI berfokus pada **“tampilan”**. Secara sederhana:
 
@@ -17,7 +17,7 @@ UX menjawab pertanyaan: _Apakah produk ini mudah digunakan, berguna, dan menyena
 
 ---
 
-## **1.2 Perbedaan UI & UX**
+## 1.2 Perbedaan UI & UX
 
 | Aspek  | UI (User Interface)                | UX (User Experience)                                     |
 | ------ | ---------------------------------- | -------------------------------------------------------- |
@@ -28,9 +28,9 @@ UX menjawab pertanyaan: _Apakah produk ini mudah digunakan, berguna, dan menyena
 
 ---
 
-## **1.3 Pentingnya UI/UX**
+## 1.3 Pentingnya UI/UX
 
-### a. **Meningkatkan Kemudahan dan Kenyamanan**
+### a. Meningkatkan Kemudahan dan Kenyamanan
 
 UX yang dirancang dengan baik membantu pengguna **mencapai tujuan tanpa kebingungan.**  
 Contoh:
@@ -39,14 +39,13 @@ Contoh:
     
 - Tombol dan ikon mudah dikenali → mempercepat tindakan.
     
-
 Hasilnya:
 
 > Pengguna merasa nyaman dan cenderung kembali lagi menggunakan produk.
 
 ---
 
-### b. **Meningkatkan Efisiensi dan Produktivitas**
+### b. Meningkatkan Efisiensi dan Produktivitas
 
 Desain UX yang efisien mengurangi langkah dan waktu yang dibutuhkan pengguna untuk menyelesaikan tugas.  
 Contoh:
@@ -60,7 +59,7 @@ Contoh:
 
 ---
 
-### c. **Membangun Emosi dan Loyalitas**
+### c. Membangun Emosi dan Loyalitas
 
 Desain yang menyenangkan dan mudah digunakan menciptakan **ikatan emosional positif.**
 
@@ -73,9 +72,9 @@ Desain yang menyenangkan dan mudah digunakan menciptakan **ikatan emosional posi
 
 ---
 
-## **1.3.1. Dampak UX terhadap Bisnis**
+## 1.3.1. Dampak UX terhadap Bisnis
 
-### a. **Meningkatkan Konversi dan Penjualan**
+### a. Meningkatkan Konversi dan Penjualan
 
 Produk dengan UX yang baik membuat pengguna:
 
@@ -90,7 +89,7 @@ Produk dengan UX yang baik membuat pengguna:
 
 ---
 
-### b. **Mengurangi Biaya Pengembangan**
+### b. Mengurangi Biaya Pengembangan
 
 Investasi di UX lebih awal mencegah revisi besar di kemudian hari.
 
@@ -106,7 +105,7 @@ Contoh:
 
 ---
 
-### c. **Meningkatkan Daya Saing Produk**
+### c. Meningkatkan Daya Saing Produk
 
 Di pasar yang penuh pilihan, **produk dengan pengalaman terbaik akan menang.**
 
@@ -121,9 +120,9 @@ Contoh nyata:
 
 ---
 
-## **1.3.2. Dampak UI yang Baik terhadap Persepsi dan Kepercayaan**
+## 1.3.2. Dampak UI yang Baik terhadap Persepsi dan Kepercayaan
 
-### 🎨 a. **Tampilan Profesional Meningkatkan Kepercayaan**
+### 🎨 a. Tampilan Profesional Meningkatkan Kepercayaan
 
 Visual yang konsisten, bersih, dan rapi memberi kesan:
 
@@ -138,7 +137,7 @@ Contoh: situs bank atau e-commerce dengan UI yang teratur membuat pengguna **leb
 
 ---
 
-### 👁️ b. **Memperkuat Identitas Brand**
+### 👁️ b. Memperkuat Identitas Brand
 
 UI yang baik memperkuat branding melalui:
 
@@ -155,7 +154,7 @@ UI yang baik memperkuat branding melalui:
 
 ---
 
-## **1.3.3. Hubungan Simbiotik UI dan UX**
+## 1.3.3. Hubungan Simbiotik UI dan UX
 UI dan UX saling **bergantung dan memperkuat satu sama lain**.
 
 | Kasus                  | Dampak                                                    | Contoh                                                           |
@@ -181,7 +180,7 @@ UI dan UX saling **bergantung dan memperkuat satu sama lain**.
 - Tombol tidak intuitif, navigasi membingungkan.  
     👉 Tampilan bagus, tapi pengalaman buruk → pengguna keluar cepat.
 
-###  **Hubungan Simbiotik: Saling Menguatkan**
+###  Hubungan Simbiotik: Saling Menguatkan
 UI dan UX saling **bergantung dan memperkuat satu sama lain**.
 Keduanya harus **selaras** agar pengguna mendapatkan **pengalaman yang menyenangkan dan efisien.**
 
@@ -195,7 +194,7 @@ Keduanya harus **selaras** agar pengguna mendapatkan **pengalaman yang menyenang
 
 ---
 
-## **1.4 Prinsip Dasar UI/UX**
+## 1.4 Prinsip Dasar UI/UX
 
 * **Clarity** → desain harus jelas, tidak membingungkan.
 * **Consistency** → gaya, warna, font, dan ikon harus seragam.
@@ -205,7 +204,7 @@ Keduanya harus **selaras** agar pengguna mendapatkan **pengalaman yang menyenang
 
 ---
 
-## **1.5 Peran UI/UX Designer**
+## 1.5 Peran UI/UX Designer
 
 * Melakukan riset pengguna (user research).
 * Membuat wireframe & prototipe.
@@ -215,7 +214,7 @@ Keduanya harus **selaras** agar pengguna mendapatkan **pengalaman yang menyenang
 
 ---
 
-## **1.6 Tren UI/UX Terkini**
+## 1.6 Tren UI/UX Terkini
 
 * **Dark mode** → ramah mata & hemat baterai.
 * **Micro-interactions** → animasi kecil (contoh: tombol like Instagram).
@@ -225,7 +224,7 @@ Keduanya harus **selaras** agar pengguna mendapatkan **pengalaman yang menyenang
 
 ---
 
-## **1.7 Latihan / Diskusi**
+## 1.7 Latihan / Diskusi
 
 1. Sebutkan contoh aplikasi dengan **UI bagus tapi UX buruk** (atau sebaliknya).
 2. Mengapa menurut Anda banyak startup gagal karena UI/UX yang kurang baik?
