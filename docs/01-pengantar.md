@@ -202,6 +202,8 @@ Keduanya harus **selaras** agar pengguna mendapatkan **pengalaman yang menyenang
 * **Feedback** → sistem memberikan respon atas tindakan pengguna.
 * **Accessibility** → ramah untuk semua, termasuk disabilitas.
 
+Topik ini akan dibahas lebih lanjut di bab [Prinsip Dasar UI/UX](02-prinsip-dasar-ux.md)
+
 ---
 
 ## 1.5 Peran UI/UX Designer
@@ -221,6 +223,8 @@ Keduanya harus **selaras** agar pengguna mendapatkan **pengalaman yang menyenang
 * **Voice UI (VUI)** → perintah suara (contoh: Siri, Alexa).
 * **Neumorphism & Glassmorphism** → gaya visual modern.
 * **AI-driven UX** → rekomendasi personalisasi berbasis AI.
+
+> 💡 Lihat dan diskusikan: [10 Tren Desain UI/UX Terbaru](https://www.arvis.id/insight/tren-desain-ui-ux-terbaru/)
 
 ---
 

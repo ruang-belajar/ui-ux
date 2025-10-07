@@ -11,3 +11,4 @@
 * [The UI-UX Playbook. Learn How To Design Beautiful UI Designs 2024](ebook/UXPeak.%20The%20UI-UX%20Playbook.%20Learn%20How%20To%20Design%20Beautiful%20UI%20Designs%202024.pdf)
 * [Design Patterns_ Elements of Reusable Object-Oriented Software - Gamma, Erich (epub)](ebook/Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20-%20Gamma%2C%20Erich.epub)
 * [The Design of Everyday Things by Donald A. Norman (epub)](ebook/The%20Design%20of%20Everyday%20Things%20by%20Donald%20A.%20Norman.epub)
+* [Don't Make Me Think, Revisited A Common Sense Approach to Web Usability - Steve Krug (epub)](ebook%5CDon%27t%20Make%20Me%20Think%2C%20Revisited_%20A%20Common%20Sense%20Approach%20to%20Web%20Usability%20-%20Steve%20Krug.epub)
